@@ -4,7 +4,7 @@
   "description": "Warm project: bakes vitest + typescript into the image's node_modules so TS verification runs offline.",
   "devDependencies": {
     "typescript": "5.5.4",
-    "vitest": "2.0.5",
+    "vitest": "4.1.12",
     "@types/node": "20.14.10"
   }
 }
